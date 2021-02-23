@@ -61,7 +61,7 @@ import {
 	Vector3,
 	VectorKeyframeTrack,
 	sRGBEncoding
-} from 'https://lizgar.github.io/UMNG/three.module.js';
+} from 'https://github.com/Laura-PrietoM/ComGrafica/three.module.js';
 
 var GLTFLoader = ( function () {
 
